@@ -1,18 +1,9 @@
-# capstone-suhaniyadav-lab5
+# TripTonic
 
-https://capstone-suhaniyadav-lab5.netlify.app/
-
+> TripTonic is a simple, elegant static website built as a capstone project to showcase travel destinations and packages. It is hand-crafted with semantic HTML and CSS and includes responsive layout considerations, accessible landmarks, and a clean visual design.
 
 <img width="913" height="739" alt="image" src="https://github.com/user-attachments/assets/f14b9465-a557-4008-97f0-3abb9fbf586c" />
 <img width="913" height="664" alt="image" src="https://github.com/user-attachments/assets/ca67b3c1-a66d-4d7c-b76e-65924abe2526" />
-
-
-
-
-
-# TripTonic
-
-TripTonic is a simple, elegant static website built as a capstone project to showcase travel destinations and packages. It is hand-crafted with semantic HTML and CSS and includes responsive layout considerations, accessible landmarks, and a clean visual design.
 
 ## What this project is
 
